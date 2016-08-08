@@ -1,0 +1,15 @@
+{
+  "name": "ios-style-sliding-menu",
+  "version": "1.0.0",
+  "description": "http://codepen.io/jasonhowmans/pen/dykhL iOS style sliding menu",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  }
+}
