@@ -1,0 +1,19 @@
+{
+  "name": "originals",
+  "description": "",
+  "main": "main.js",
+  "license": "ISC",
+  "homepage": "https://github.com/TakesxiSximada/pens",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.3",
+    "modernizr": "3.3.1",
+    "letteringjs": "Lettering.js#^0.7.0"
+  }
+}
